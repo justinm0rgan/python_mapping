@@ -1,2 +1,5 @@
 # nb
 .DS_Store
+
+# env var
+config.py
