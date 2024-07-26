@@ -3,3 +3,12 @@
 
 # env var
 config.py
+
+# geo var
+geo_export*
+
+# zip
+*.zip
+
+# py files
+*.pyc
